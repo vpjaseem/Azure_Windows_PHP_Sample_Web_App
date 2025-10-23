@@ -1,1 +1,1 @@
-# sample-static-php-web-app
+# Azure_Windows_PHP_Sample_Web_App
